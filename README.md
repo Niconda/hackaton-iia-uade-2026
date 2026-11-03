@@ -1,9 +1,9 @@
-# <Código> · <Título de su problemática>
+# <T12> · <¿Este córner termina en gol?>
 
-> **Hackatón IIA · UADE · 3.4.257.** Este README es la plantilla del grupo. En su fork, reemplacen todo lo que está entre `< >` y borren esta nota. Las bases están en `BASES.md` y su ficha en `problematicas/`.
+> **Hackatón IIA · UADE · 3.4.257.** 
 
-**Integrantes:** <nombre y apellido> · <nombre y apellido>
-**IA declarada:** <la del grupo desde la Clase 1>
+**Integrantes:** <Emiliano Picardo> · <Nicolás Ondarra>
+**IA declarada:** <ChatGPT>
 **Pista:** <Neurona / Reglas / Agente>
 **Publicación en LinkedIn:** <link>
 
