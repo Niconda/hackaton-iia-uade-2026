@@ -153,6 +153,6 @@ Nuestro sistema obtiene **100 %** tanto en entrenamiento como en prueba, por lo 
 
 | Corrida | Nota | Agujero que encontró | Qué cambiamos |
 |---|---|---|---|
-| 1 | 8,4 / 10 | Faltaba distinguir mejor el objetivo real de la métrica y explicitar una línea base trivial. | Se separó “elegir mejor córners con potencial de gol” de las métricas de evaluación y se agregó la comparación contra el sistema que siempre responde NO. |
-| 2 | 9,2 / 10 | El README no justificaba con suficiente claridad cuál era el error más caro ni qué cambio concreto se hizo por eso. | Se explicó que el falso negativo es más caro y se justificó la incorporación de la regla R2 para no perder casos valiosos. |
-| 3 | 10 / 10 | No señaló agujeros críticos; pidió defender en mesa por qué el sistema es reproducible y qué riesgo tiene. | Se reforzó la explicación del procedimiento en vivo y del riesgo de generalización por datos inventados y pocos. |
+| 1 |  |  |  |
+| 2 |  |  |  |
+| 3 |  |  |  |
