@@ -2,8 +2,8 @@
 
 > **Hackatón IIA · UADE · 3.4.257.** 
 
-**Integrantes:** <Emiliano Picardo> · <Nicolás Ondarra>
-**IA declarada:** <ChatGPT>
+**Integrantes:** Emiliano Picardo y Nicolás Ondarra
+**IA declarada:** ChatGPT
 **Pista:** <Neurona / Reglas / Agente>
 **Publicación en LinkedIn:** <link>
 
